@@ -1,0 +1,22 @@
+table, td {
+    border: 2px solid black;
+}
+a {
+    color: black;
+}
+body {
+    background-color: pink;
+}
+table,td,th {
+    background-color: lightblue;
+}
+#main-header {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+#main-footer{
+    text-align: center;
+    font-size: 18px;
+}
